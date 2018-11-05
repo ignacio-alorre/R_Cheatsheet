@@ -171,6 +171,8 @@ x[is.na(x)]
  [1] NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA NA
 `
 
+### Subsetting a vector using a logical expression
+
 Recall that `!` gives us the negation of a logical expression, so !is.na(x) can be read as 'is not NA'. Therefore, if we want to create
  a vector called y that contains all of the non-NA values from x
 
@@ -213,6 +215,8 @@ x[!is.na(x) & x > 0]
  [1] 1.3951681 2.1822973 1.1838587 0.6482982 0.1217270 0.6985751 0.8156217 0.1131666 0.9101274
 [10] 1.2717335 0.4134691 0.1943982 0.2456427
 `
+
+### Issues when accessing elements in an array
 
 R uses 'one-based indexing', which means the first element of a vector is considered element 1. For example:
 
