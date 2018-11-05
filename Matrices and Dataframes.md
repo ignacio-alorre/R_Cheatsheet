@@ -2,8 +2,8 @@
 
 Matrices and data frames represent 'rectangular' data types, meaning that they are used to store tabular data, with rows and columns.
 
-* **matrices can only contain a single class of data**
-* **data frames can consist of many different classes of data**
+* **Matrices can only contain a single class of data**
+* **Data frames can consist of many different classes of data**
 
 ### Finding the length of a vector 
 
