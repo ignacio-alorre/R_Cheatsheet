@@ -34,9 +34,11 @@ In case we write:
 c(1,2,3,4)+c(0,1,0)
 ```
 We will get:
+
 `
 Warning message: longer object length is not a multiple of shorter object length
 `
+
 However if we try con sum two vectors like this:
 
 ```R
