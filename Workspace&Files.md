@@ -64,7 +64,7 @@ setwd("testdir")
 file.create("mytest.R")
 ```
 
-## Checking if a file exists in the working directory
+### Checking if a file exists in the working directory
 
 ```R
 file.exists("mytest.R")
