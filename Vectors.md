@@ -2,8 +2,8 @@
 
 Vectors come in two different flavors: atomic vectors and lists. 
 
-* An atomic vector contains exactly one data type,
-* A list may contain multiple data types. 
+* An Atomic Vector contains exactly one data type,
+* A List may contain multiple data types. 
 
 ## Atomic vectors
 
