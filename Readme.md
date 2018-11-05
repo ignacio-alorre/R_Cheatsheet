@@ -1,4 +1,7 @@
 # Syllabus of the R Cheat Sheet
 
-1. Vectors
-2. Workspace and Files
+## Introduction
+
+1. Workspace and Files
+2. Sequences of Numbers
+3. Vectors
