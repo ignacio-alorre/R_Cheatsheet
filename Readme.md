@@ -6,4 +6,5 @@
 2. [Sequences of Numbers](https://github.com/ignacio-alorre/R_Cheatsheet/blob/master/Sequences%20of%20Numbers.md)
 3. [Vectors](https://github.com/ignacio-alorre/R_Cheatsheet/blob/master/Vectors.md)
 4. [Missing Values](https://github.com/ignacio-alorre/R_Cheatsheet/blob/master/Missing%20Values.md)
+5. [Matrices and Dataframes](https://github.com/ignacio-alorre/R_Cheatsheet/blob/master/Matrices%20and%20Dataframes.md)
 
